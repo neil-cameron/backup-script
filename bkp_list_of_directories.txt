@@ -1,0 +1,8 @@
+/Users/Neil/Pictures
+/Users/Neil/Documents
+/Users/Neil/Dropbox
+/Users/Neil/Library
+/Users/Neil/Music
+/Users/Neil/Desktop
+/Users/Neil/Downloads
+/Users/Neil/Movies
